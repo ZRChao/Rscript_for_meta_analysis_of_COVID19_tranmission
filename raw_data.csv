@@ -1,0 +1,27 @@
+﻿No.,Study ID,Title,Study coutry,Population,Study period,Follow up,Mask,No. of all index cases,No. of contacts with all index cases,No. of positive contacts,No. of asympotomatic index,No. of contacts with asymptomatic infection,No. of infections among asymptomatic contacts,No. of presymptomatic index,No. of contacts with presymptomatic infection,No. of infections among presymptomatic contacts,No. of symptomatic index,No. of contacts with symptomatic infection,No. of infections among symptomatic contacts
+1,Cao S 2020,"Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China","China,WuHan",Community,2020.5.14-2020.6.1,NA,not report,300,NA,NA,300,1174,0,NA,NA,NA,NA,NA,NA
+2,Blaisdell 2020,"Preventing and Mitigating SARS-CoV-2 Transmission - Four Overnight Camps, Maine, June-August 2020",U.S.,Community,2020.6-2020.8,8-10 days,not report,3,NA,NA,3,41,0,NA,NA,NA,NA,NA,NA
+3,Chaw 2020,"Analysis of SARS-CoV-2 Transmission in Different Settings, Brunei",Brunei,Community,NA,≤14 days,not report,19,1701,NA,4,106,3,7,585,12,8,1010,28
+3,Chaw 2020,"Analysis of SARS-CoV-2 Transmission in Different Settings, Brunei",Brunei,Community,NA,NA,NA,NA,NA,NA,NA,45,2,NA,66,4,NA,153,22
+3,Chaw 2020,"Analysis of SARS-CoV-2 Transmission in Different Settings, Brunei",Brunei,Community,NA,NA,NA,NA,NA,NA,NA,61,1,NA,519,8,NA,857,6
+4,Yin 2020,Comparison of Transmissibility of Coronavirus Between Symptomatic and Asymptomatic Patients: Reanalysis of the Ningbo COVID-19 Data,"China,Ningbo",Mixed,2020.1.21-2020-3.6,NA,not report,187,2147,NA,30,146,6,NA,NA,NA,157,2001,126
+5,Gao 2020,A study on infectivity of asymptomatic SARS-CoV-2 carriers,"China,Guangzhou",Organization,2020.2.11.-2020.3.2,21 days,All patients also wore masks except for eating or drinking and were admitted to infectious department for medical isolation.,1,NA,NA,1,455,0,NA,NA,NA,NA,NA,NA
+5,Gao 2020,A study on infectivity of asymptomatic SARS-CoV-2 carriers,"China,Guangzhou",NA,NA,NA,NA,NA,NA,NA,NA,196,0,NA,NA,NA,NA,NA,NA
+5,Gao 2020,A study on infectivity of asymptomatic SARS-CoV-2 carriers,"China,Guangzhou",NA,NA,NA,NA,NA,NA,NA,NA,224,0,NA,NA,NA,NA,NA,NA
+6,Gupta 2020,Transmission of SARS-CoV-2 Infection by Children: A Study of Contacts of Index Paediatric Cases in India,India,Community,NA,NA,not report,19,NA,NA,19,122,7,NA,NA,NA,NA,NA,NA
+6,Gupta 2020,Transmission of SARS-CoV-2 Infection by Children: A Study of Contacts of Index Paediatric Cases in India,India,NA,NA,NA,NA,NA,NA,NA,NA,42,5,NA,NA,NA,NA,NA,NA
+6,Gupta 2020,Transmission of SARS-CoV-2 Infection by Children: A Study of Contacts of Index Paediatric Cases in India,India,NA,NA,NA,NA,NA,NA,NA,NA,80,2,NA,NA,NA,NA,NA,NA
+7,Han 2020,Outbreak investigation: transmission of COVID-19 started from a spa facility in a local community in Korea,Korea,Organization,2020.3.28-2020.4.3,≥14 days,No,10,192,NA,2,52,0,NA,88,7,8,52 (2),0
+7,Han 2020,Outbreak investigation: transmission of COVID-19 started from a spa facility in a local community in Korea,Korea,NA,,,NA,NA,NA,NA,NA,14,NA,NA,20,NA,NA,NA,NA
+8,Han X 2020,"Severe Acute Respiratory Syndrome Coronavirus 2 among Asymptomatic Workers Screened for Work Resumption, China","China,WuHan",Mixed,2020.3.13-2020.4.25,3-41 days,"due to the strict isolation and preventive measures taken in Wuhan for >3 months, the population was generally protected from the spread of infection by mask-wearing and self-quarantine.",18,NA,NA,18,41,0,NA,NA,NA,NA,NA,NA
+9,Jiang X 2020,Transmission potential of asymptomatic and paucisymptomatic SARS-CoV-2 infections: a three-family cluster study in China,"China,Shandong",Community,2020.1.11-2020.2.17,11-23 days,No,7,NA,NA,2,174,1,NA,NA,NA,5,130,5
+10,Cheng 2020,Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset,"China,Taiwan",Mixed,2020.1.15-3.18,14 days,No,100,NA,NA,9,91,0,NA,NA,NA,91,2644,22
+11,Liu 2020,The assessment of transmission efficiency and latent infection period in asymptomatic carriers of SARS-CoV-2 infection.,"China,Anhui",Mixed,NA,14 days,NA,147,1150,47,131,914,24,16,236,23,NA,NA,NA
+12,Luo 2020,"Contact Settings and Risk for Transmission in 3410 Close Contacts of Patients With COVID-19 in Guangzhou, China A Prospective Cohort Study.","China, guangzhou",Mixed,2020.1.13-2020.3.6,No,NA,391,3410,127,NA,305,1,NA,NA,NA,NA,2305,117
+13,Park 2020,"Coronavirus Disease Outbreak in Call Center, South Korea.",South Korea,Organization,2020.2.21-2020.3.31,14 days,NA,97,225,34,4,4,0,4,11,0,89,210,34
+14,Shi 2020,"Effective control of SARS-CoV-2 transmission in Wanzhou, China","China, Wanzhou",Mixed,2020.1.21-2020.4.10,4 weeks,Yes,NA,1566,83,NA,173,16,NA,922,47,NA,471,20
+15,Zhang 2020,"Secondary Transmission of Coronavirus Disease from Presymptomatic Persons, China","China,Guangzhou",Mixed,2020.3.15-3.29,14 days,No,93,369,12,12,119,1,71,250,11,NA,NA,NA
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
